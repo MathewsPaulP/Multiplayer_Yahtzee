@@ -10,3 +10,5 @@ The class decriptions are as follows:
 ![Untitled Diagram](https://user-images.githubusercontent.com/92027983/136198889-d24e77d2-79ce-4cd0-9542-6edd850dadbb.png)
 
 The overall architecture of the game can be seen in the above process diagram.
+
+To play the game, run the server class first then the client classes. By default the number of players is 4 and the network settings have been configured. These can be changed in the YServer and YClient classes respectively. 
